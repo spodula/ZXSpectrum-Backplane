@@ -1,0 +1,36 @@
+** Drc report for /home/graham/kicad/Backplane/Backplane.kicad_pcb **
+** Created on 2022-05-26 14:29:03 **
+
+** Found 9 DRC violations **
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; Severity: error
+    @(188.2140 mm, 146.4310 mm): Footprint U1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; Severity: error
+    @(188.2140 mm, 146.4310 mm): Footprint U1
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(177.6984 mm, 65.2272 mm): Track [/D3] on F.Cu, length 0.2874 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(167.3860 mm, 107.6960 mm): Track [/D1] on F.Cu, length 0.1437 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(175.3616 mm, 85.0392 mm): Track [/D5] on F.Cu, length 0.0718 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(160.1216 mm, 90.1192 mm): Track [/+9V] on B.Cu, length 0.0718 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(160.1470 mm, 125.8530 mm): Track [/NC] on F.Cu, length 1.0120 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(165.3540 mm, 146.4310 mm): Track [/D0] on F.Cu, length 2.9200 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
